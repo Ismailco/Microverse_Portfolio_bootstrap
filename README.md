@@ -17,14 +17,14 @@
 
 ## Live Demo
 
-[Live Demo Link](https://ismailco.github.io/Portfolio-Microverse/)
+[Live Demo Link](https://ismailco.github.io/Microverse_Portfolio_bootstrap/)
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-1- copy the repo URL
-2- $ git clone (repo URL)
+- copy the repo URL
+- $ git clone (repo URL)
 
 ## Author
 
